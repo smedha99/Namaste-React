@@ -1,3 +1,6 @@
+import React from "react";
+import ReactDOM from "react-dom";
+
 // const heading=React.createElement("h1",{id:"heading"},"hii i am medha and try to learn react");
 // //console.log(heading);---->object
 // const root=ReactDOM.createRoot(document.getElementById("root"));
